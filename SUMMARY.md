@@ -1,7 +1,7 @@
 # Table of contents
 
 * [yoyoyoyooy](README.md)
-* [Lesson 1: Unplugged: Tangrams](<README (1).md>)
+* [Lesson 1: Unplugged: Tangrams](lesson-1-unplugged-tangrams.md)
 * [Lesson 2: Maze and Bee](lesson-2-maze-and-bee.md)
 * [Lesson 3: Artist](lesson-3-artist.md)
 * [Lesson 4: Unplugged: Envelope Variables](lesson-4-unplugged-envelope-variables.md)
