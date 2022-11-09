@@ -1,7 +1,8 @@
----
-description: Made By shesomean | Taechapat#2484
----
+# yoyoyoyooy
 
-# Create this for yall dumbass brain to pass😭😭
+## Creating this dumbass for yall to pass
 
-# https://shesomean.gitbook.io/code.org-answer/
+## Credit for Taechapat#2484 | shesomean
+
+## พระองค์ทรงงานหนัก
+
