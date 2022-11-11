@@ -1,6 +1,6 @@
 # Table of contents
 
-* [yoyoyoyooy](README.md)
+* [🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰](README.md)
 * [Lesson 1: Unplugged: Tangrams](lesson-1-unplugged-tangrams.md)
 * [Lesson 2: Maze and Bee](lesson-2-maze-and-bee.md)
 * [Lesson 3: Artist](lesson-3-artist.md)
