@@ -1,7 +1,5 @@
 # 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰
 
-### Creating this dumbass for yall to pass
-
-### Credit for Taechapat#2484 | shesomean
+### Credit for mememememememe
 
 ## https://shesomean.gitbook.io/code.org-answer/
